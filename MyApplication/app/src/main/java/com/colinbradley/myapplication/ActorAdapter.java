@@ -29,7 +29,7 @@ public class ActorAdapter extends RecyclerView.Adapter<ActorAdapter.ActorViewHol
 
     @Override
     public int getItemCount() {
-        return 0;
+        return mActors.size();
     }
 
     class ActorViewHolder extends RecyclerView.ViewHolder{
