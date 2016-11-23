@@ -27,6 +27,8 @@
       </value>
     </option>
   </component>
+<<<<<<< HEAD
+=======
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -85,6 +87,7 @@
       </profile-state>
     </entry>
   </component>
+>>>>>>> a4a905e1b7b58f89c62a1abd0fd4513ce2e422c4
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
