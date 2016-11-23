@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         List<Actor> actors = new ArrayList<>();
-        
+        actors.add(new Actor("Leonardo","June 13, 1960",1));
+        actors.add(new Actor("Betty","June 13, 1980",0));
+        actors.add(new Actor("Tom Hanks","October 2, 1990",4));
     }
 }
